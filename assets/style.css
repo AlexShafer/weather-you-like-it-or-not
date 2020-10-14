@@ -1,0 +1,29 @@
+#navBar {
+  text-align: center;
+  color: white;
+  height: 6rem;
+  background-color: rgb(41, 42, 44);
+}
+
+
+#searchBtn {
+  background-color: steelblue;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.card {
+  margin-top: 2rem;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+  font-size: 4rem;
+}
