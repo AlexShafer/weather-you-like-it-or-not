@@ -1,6 +1,6 @@
 # weather-you-like-it-or-not
 
-![READle-ME-this](https://img.shields.io/github/last-commit/AlexDShafer/weather-you-like-it-or-not)
+![READle-ME-this](https://img.shields.io/github/last-commit/AlexShafer/weather-you-like-it-or-not)
 
 ## Description
 
